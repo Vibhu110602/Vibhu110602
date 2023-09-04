@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhu110602&label=Profile%20views&color=0e75b6&style=flat" alt="vibhu110602" /> </p>
 
+- 🔭 I’m currently working on [Disaster Management](https://github.com/Vibhu110602/Disaster-Management)
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing](https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing)
+
 - ⚡ Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
