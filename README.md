@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Disaster Management](https://github.com/Vibhu110602/Disaster-Management)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing](https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny.**
 
