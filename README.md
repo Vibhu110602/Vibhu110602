@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently working on [!Disaster Management Project](https://github.com/Vibhu110602/Disaster-Management)
+I am currently working on [Disaster Management](https://github.com/Vibhu110602/Disaster-Management)
+I am funny.
 
 
 ## 🌐 Socials:
