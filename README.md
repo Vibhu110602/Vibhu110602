@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Disaster Management](https://github.com/Vibhu110602/Disaster-Management)
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/Vibhu110602)
+- 👨‍💻 All of my projects are available at [github.com/Vibhu110602](github.com/Vibhu110602)
 
 - 📫 How to reach me **vaibhavchachra11@gmail.com**
 
-- 📄 Know about my experiences [Resume Drive](https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing](https://drive.google.com/file/d/1Wih80Jm1TNFM0CwkqCHKbBGFOo46395G/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny.**
 
@@ -37,10 +37,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vibhu110602&" alt="vibhu110602" /></p>
 
-## ✍️ Random Dev Quote
+
+
+
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 😂 Random Dev Meme
+### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400 px;"/>
 ---
 
